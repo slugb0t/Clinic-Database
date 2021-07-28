@@ -4,6 +4,8 @@ We have designed a backend relation database intended to be used with a propriet
 
 The relational datavase will handle all the inter-table constraints and foreign keys, as well as checking appointment times to ensure no scheduling overlaps exist, leaving the proprietary application with just managing access levels based on credentials and generating queries.
 
+![Database Diagram](./MedicalClinic.PNG)
+
 Our function specification for the utilities provided is as follows: 
 1. Allows nurses to make, update, and cancel appointments for patients.
 2. Allows physicians to make prescriptions and external referrals to other clinics or hospitals should the need for a specialist unavailable in the in the clinic arise.
