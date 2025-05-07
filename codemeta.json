@@ -25,5 +25,8 @@
   "programmingLanguage": [
     "Ada"
   ],
-  "type": "SoftwareSourceCode"
+  "type": "SoftwareSourceCode",
+  "identifier": "10.5281/zenodo.214613",
+  "version": "000.11.2",
+  "dateModified": "2025-05-07"
 }
