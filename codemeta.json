@@ -1,0 +1,29 @@
+{
+  "name": "Clinic-Database",
+  "@context": "https://w3id.org/codemeta/3.0",
+  "author": [
+    {
+      "affiliation": {
+        "name": "FAIR Data Innovations Hub",
+        "type": "Organization"
+      },
+      "email": "wheresdorian@gmail.com",
+      "familyName": "Portillo",
+      "id": "_:author_1",
+      "givenName": "Dorian",
+      "type": "Person"
+    }
+  ],
+  "codeRepository": "https://github.com/slugb0t/Clinic-Database",
+  "dateCreated": "2020-10-01",
+  "description": "test",
+  "issueTracker": "https://github.com/slugb0t/Clinic-Database/issues",
+  "keywords": [
+    "dfasdf"
+  ],
+  "license": "https://spdx.org/licenses/MIT",
+  "programmingLanguage": [
+    "Ada"
+  ],
+  "type": "SoftwareSourceCode"
+}
