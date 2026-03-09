@@ -11,4 +11,6 @@ Our function specification for the utilities provided is as follows:
 2. Allows physicians to make prescriptions and external referrals to other clinics or hospitals should the need for a specialist unavailable in the in the clinic arise.
 3. Allow for the hiring and termination of nurses and physicians.
 4. Allow for the creation of new departments and specialties to keep up with an expanding clinic.
+5. test
+
 
